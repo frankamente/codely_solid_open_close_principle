@@ -1,6 +1,6 @@
 package com.company;
 
-public class Song implements Measurable{
+public class Song extends Measurable{
     private double totalLength;
     private double sentLength;
 

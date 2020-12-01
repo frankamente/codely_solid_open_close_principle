@@ -1,6 +1,6 @@
 package com.company;
 
-public class File implements Measurable {
+public class File extends Measurable {
     private double totalLength;
     private double sentLength;
 
